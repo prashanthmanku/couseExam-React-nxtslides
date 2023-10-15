@@ -1,0 +1,26 @@
+.header-bg-card {
+  background-color: #dbeafe;
+  height: 64px;
+
+  padding: 10px 0 10px 15px;
+  font-family: 'Bree Serif';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-width-card {
+  width: 90%;
+
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 40px;
+  margin-right: 15px;
+}
+
+.header-text {
+  font-size: 28px;
+  font-weight: 400;
+}

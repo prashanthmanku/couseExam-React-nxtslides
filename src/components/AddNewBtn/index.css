@@ -1,0 +1,19 @@
+.add-new-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: #0f172a;
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  background-color: #dbeafe;
+  margin: 20px 0px 20px 20px;
+  padding: 8px 15px;
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.plus-icon {
+  width: 20px;
+  margin-right: 10px;
+}
